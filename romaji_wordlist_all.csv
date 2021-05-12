@@ -1,0 +1,937 @@
+Hepburn,Kana,English,Is Noun,Is Verb,Is Adjective,Is Adverb,Frequency
+saito,サイト,site (usu. website),True,False,False,False,2714191
+saizu,サイズ,size,True,False,False,False,2335959
+geemu,ゲーム,game,True,False,False,False,2218381
+meeru,メール,email,True,True,False,False,1823604
+saabisu,サービス,service/help/assistance/care/concern,True,True,False,False,1801686
+burogu,ブログ,blog/weblog,True,False,False,False,1791612
+peeji,ページ,page,True,False,False,False,1762357
+terebi,テレビ,television/TV,True,False,False,False,1685618
+shisutemu,システム,system,True,False,False,False,1610239
+dezain,デザイン,design,True,True,False,False,1537834
+kaado,カード,"card (information, filing, etc.)",True,False,False,False,1525958
+setto,セット,set,True,True,False,False,1522438
+taipu,タイプ,type/kind/sort/style,True,False,False,False,1515128
+amerika,アメリカ,America,True,False,False,False,1480633
+reberu,レベル,level/standard/amount/degree/grade/rank/class,True,False,False,False,1458426
+pointo,ポイント,point,True,True,False,False,1424610
+appu,アップ,increasing,True,True,False,False,1424269
+fan,ファン,fan/enthusiast/lover (of),True,False,False,False,1421614
+netto,ネット,network,True,False,False,False,1392384
+komento,コメント,comment,True,True,False,False,1310828
+hoteru,ホテル,hotel,True,False,False,False,1309344
+deeta,データ,data/datum,True,False,False,False,1308462
+ibento,イベント,event,True,False,False,False,1291860
+kyara,キャラ,(fictional) character,True,False,False,False,1253162
+basu,バス,bus,True,False,False,False,1233395
+shiriizu,シリーズ,series,True,False,False,False,1210890
+chiimu,チーム,team,True,False,False,False,1200578
+imeeji,イメージ,image (in one's mind)/impression/mental image/(mental) picture,True,True,False,False,1195455
+karaa,カラー,collar,True,False,False,False,1152372
+rain,ライン,line,True,False,False,False,1146754
+sentaa,センター,centre/center,True,False,False,False,1135178
+moderu,モデル,model/dummy/mock-up,True,False,False,False,1116619
+hoomu,ホーム,platform,True,False,False,False,1094592
+sofuto,ソフト,soft,True,False,True,False,1084742
+shiin,シーン,scene/sight,True,False,False,False,1080426
+meekaa,メーカー,manufacturer (esp. a major company)/producer/maker,True,False,False,False,1065246
+anime,アニメ,animation/animated film/animated cartoon/anime,True,False,False,False,1063671
+dame,ダメ,no good/not serving its purpose/useless/broken,True,False,True,False,997852
+raibu,ライブ,"live (esp. concert, show, etc.)/live performance",True,True,False,False,977966
+menbaa,メンバー,member/participant/attendee/lineup (sport),True,False,False,False,952536
+chekku,チェック,check/plaid/checkered,True,False,False,False,923909
+puro,プロ,professional,True,False,False,False,914401
+toppu,トップ,top,True,False,False,False,912463
+dorama,ドラマ,(non-documentary) television series/TV drama/teledrama/play,True,False,False,False,905575
+keesu,ケース,"case (e.g. receptacle, condition, event, legal action, letter style, etc.)",True,False,False,False,894695
+koosu,コース,course/route/trail,True,False,False,False,892117
+sure,スレ,"thread (on an Internet forum, mailing list, etc.)/topic/conversation/post",True,False,False,False,882669
+wan,ワン,one,False,False,False,False,867969
+guruupu,グループ,group (usu. of people),True,False,False,False,860212
+supootsu,スポーツ,sport/sports,True,False,False,False,837820
+kamera,カメラ,camera,True,False,False,False,829319
+bakku,バック,back,True,False,False,False,829108
+sutaffu,スタッフ,staff,True,False,False,False,829054
+nyuusu,ニュース,news,True,False,False,False,824293
+booru,ボール,ball,True,False,False,False,820409
+pasokon,パソコン,personal computer,True,False,False,False,808797
+fairu,ファイル,file,True,True,False,False,800091
+burando,ブランド,brand,True,False,False,False,799934
+pan,パン,bread/pastries (e.g. croissants)/pastry-based products,True,False,False,False,790745
+kurasu,クラス,class,True,False,False,False,790289
+kii,キー,"key (lock, keyboard, piano, clue, island, cay, etc.)",True,False,False,False,782873
+man,マン,man,True,False,False,False,778703
+in,イン,"in (of a ball, in tennis, etc.)/inside the line",True,False,False,False,778429
+purei,プレイ,play/recreation,True,True,False,False,769633
+teema,テーマ,theme/topic/subject matter/motif/project/slogan,True,False,False,False,768937
+bijinesu,ビジネス,business,True,False,False,False,761012
+rinku,リンク,link/directory entry,True,True,False,False,744491
+sutairu,スタイル,(one's) figure/build/physique/shape,True,False,False,False,741344
+taitoru,タイトル,title,True,False,False,False,737238
+taimu,タイム,time,True,False,False,False,725557
+on,オン,on,True,True,False,False,718626
+mein,メイン,main/principal,True,False,False,False,706695
+neta,ネタ,"material (for a story, article, etc.)/information/news item",True,False,False,False,702127
+shoppu,ショップ,shop,True,False,False,False,698063
+honto,ホント,truth/reality/actuality/fact,True,False,True,False,696233
+burakku,ブラック,black,True,False,False,False,690771
+arubamu,アルバム,album,True,False,False,False,690263
+aitemu,アイテム,item,True,False,False,False,684196
+furansu,フランス,France,True,False,False,False,675292
+suupaa,スーパー,supermarket,True,False,False,False,662998
+kurabu,クラブ,nightclub,True,False,False,False,651646
+purezento,プレゼント,present/gift,True,False,False,False,646249
+sutaato,スタート,start,True,True,False,False,640590
+reesu,レース,race,True,False,False,False,639198
+orijinaru,オリジナル,original,True,False,False,False,638443
+baggu,バッグ,bag,True,False,False,False,633910
+enerugii,エネルギー,energy,True,False,False,False,632611
+baransu,バランス,balance,True,True,False,False,627102
+baka,バカ,idiot/moron/fool,True,False,False,False,624523
+doru,ドル,dollar,True,False,False,False,622160
+pawaa,パワー,power,True,False,False,False,620661
+bando,バンド,band,True,False,False,False,619390
+sapooto,サポート,support,True,True,False,False,615060
+wain,ワイン,wine,True,False,False,False,614519
+mama,ママ,mama/mamma/mom/mommy/mum/mummy/mother,True,False,False,False,612294
+rebyuu,レビュー,review,True,True,False,False,606826
+intaanetto,インターネット,Internet,True,False,False,False,598932
+hai,ハイ,high (e.g. spirits)/merry,True,False,True,False,598831
+ero,エロ,erotic/pornographic/obscene,True,False,True,False,597950
+shatsu,シャツ,shirt (underwear)/undershirt/singlet,True,False,False,False,596532
+rokku,ロック,lock,True,True,False,False,596365
+katto,カット,cut/cutting,True,True,False,False,593456
+besuto,ベスト,best,True,False,True,False,590639
+puroguramu,プログラム,"program (of events, music, etc.)/programme",True,False,False,False,582572
+mono,モノ,mono,True,False,False,False,580768
+beesu,ベース,base/basis/theme/basic ingredient,True,False,False,False,577476
+tsuaa,ツアー,tour,True,False,False,False,576117
+daietto,ダイエット,diet,True,True,False,False,572709
+sakkaa,サッカー,soccer,True,False,False,False,571636
+tesuto,テスト,examination/quiz/test,True,True,False,False,571255
+raito,ライト,light,True,False,True,False,568955
+menyuu,メニュー,menu,True,False,False,False,567977
+bideo,ビデオ,video,True,False,False,False,567524
+botan,ボタン,button (clothing),True,False,False,False,565711
+doitsu,ドイツ,Germany,True,False,False,False,561609
+furii,フリー,"free (of restraint, controls, etc.)",True,False,True,False,560687
+pinku,ピンク,pink,True,False,False,False,559058
+furu,フル,full,True,False,True,False,552885
+buruu,ブルー,"blue (colour, color)",True,False,True,False,544574
+media,メディア,media,True,False,False,False,544480
+koodo,コード,code,True,False,False,False,540055
+kurikku,クリック,click,True,True,False,False,530091
+ore,オレ,olé,False,False,False,False,526478
+yuuzaa,ユーザー,user,True,False,False,False,526478
+akusesu,アクセス,access,True,True,False,False,524290
+moodo,モード,"mode (musical mode, mode of probability distribution, state of physical system)",True,False,False,False,523642
+riaru,リアル,real/realistic/true to life,True,False,True,False,523305
+oopun,オープン,"opening (a new store, golf course, runway, etc.)",True,True,False,False,520387
+suteeji,ステージ,stage,True,False,False,False,511597
+sutoorii,ストーリー,story/tale/legend,True,False,False,False,509868
+kappu,カップ,"cup (drinking vessel, measure, brassiere, prize, etc.)",True,False,False,False,509838
+kurisumasu,クリスマス,Christmas,True,False,False,False,508013
+toire,トイレ,toilet/restroom/bathroom/lavatory,True,False,False,False,505672
+kuriimu,クリーム,cream,True,False,False,False,501094
+ajia,アジア,Asia,True,False,False,False,500135
+san,サン,sun,True,False,False,False,497588
+enjin,エンジン,engine,True,False,False,False,494971
+keeki,ケーキ,cake,True,False,False,False,492937
+kuria,クリア,clear,True,False,True,False,492320
+kabaa,カバー,cover/covering/dust jacket,True,True,False,False,489148
+maji,マジ,serious/not joking/straight,True,False,True,False,487291
+howaito,ホワイト,white,True,False,True,False,486700
+gasu,ガス,"gas (state of matter, e.g. poison gas, natural gas)",True,False,False,False,485240
+kea,ケア,care,True,True,False,False,484184
+koohii,コーヒー,coffee,True,False,False,False,471476
+shinpuru,シンプル,simple/plain,True,False,True,False,469895
+manshon,マンション,condominium (often mid-rise or high-rise concrete)/apartment building/apartment house/apartment/flat,True,False,False,False,468320
+shiito,シート,seat,True,False,False,False,468210
+a,ア,ah/oh,False,False,False,False,467545
+kyarakutaa,キャラクター,character/personality/disposition,True,False,False,False,465539
+baito,バイト,part-time job/side job,True,True,False,False,464603
+dansu,ダンス,dance,True,True,False,False,464556
+koonaa,コーナー,corner/bend/turn,True,False,False,False,464310
+biru,ビル,multi-floor building/multi-storey building,True,False,False,False,463028
+messeeji,メッセージ,message,True,False,False,False,462283
+gitaa,ギター,guitar,True,False,False,False,460969
+kosuto,コスト,cost,True,False,False,False,460822
+hooru,ホール,"hall (dance, concert, etc.)",True,False,False,False,459551
+rankingu,ランキング,ranking,True,False,False,False,457077
+kiro,キロ,kilo-/1000,False,False,False,False,455098
+shiizun,シーズン,season (period in which regulated games are played),True,False,False,False,455052
+tai,タイ,tie/necktie,True,False,False,False,454984
+dejitaru,デジタル,digital,True,False,False,False,453245
+saido,サイド,side,True,False,False,False,447252
+supeesu,スペース,"space (room, area, outer space)",True,False,False,False,446514
+kaa,カー,car,True,False,False,False,444329
+sutoresu,ストレス,stress,True,False,False,False,442221
+supiido,スピード,speed,True,False,False,False,440845
+poketto,ポケット,pocket,True,False,False,False,439692
+teeburu,テーブル,table,True,False,False,False,438489
+janru,ジャンル,genre,True,False,False,False,437943
+piano,ピアノ,piano,True,False,False,False,436998
+massaaji,マッサージ,massage,True,True,False,False,435191
+ofu,オフ,switching off (e.g. electricity)/turning off (e.g. water),True,True,False,False,434080
+baiku,バイク,motorcycle/motorbike,True,False,False,False,433812
+garasu,ガラス,glass/pane,True,False,False,False,433572
+eria,エリア,area,True,False,False,False,433112
+beddo,ベッド,bed,True,False,False,False,432915
+pataan,パターン,pattern,True,False,False,False,432639
+itaria,イタリア,Italy,True,False,False,False,430157
+petto,ペット,pet,True,False,False,False,426080
+biiru,ビール,beer,True,False,False,False,425405
+raamen,ラーメン,ramen/Chinese-style noodles,True,False,False,False,424593
+soosu,ソース,sauce,True,False,False,False,423334
+gan,ガン,gun,True,False,False,False,421187
+risuto,リスト,list,True,False,False,False,420133
+nettowaaku,ネットワーク,network,True,False,False,False,416816
+pantsu,パンツ,underpants/pants/briefs/panties/shorts/knickers,True,False,False,False,415969
+purojiekuto,プロジェクト,project,True,False,False,False,414151
+ii,イイ,Iran-Iraq,True,False,False,False,413886
+rajio,ラジオ,radio,True,False,False,False,412905
+mai,マイ,my/one's own/personal/privately owned,False,False,False,False,412008
+oiru,オイル,oil/petroleum,True,False,False,False,410944
+resu,レス,response,True,True,False,False,410396
+ko,コ,counter for articles,False,False,False,False,404333
+hausu,ハウス,house,True,False,False,False,402023
+waado,ワード,word,True,False,False,False,400406
+mini,ミニ,mini-,True,False,False,False,400017
+gorufu,ゴルフ,golf,True,False,False,False,398693
+doa,ドア,"door (Western-style, car, etc.)",True,False,False,False,397680
+kakko,カッコ,brackets/parentheses,True,True,False,False,397222
+hitto,ヒット,hit/base hit/safe hit/single,True,True,False,False,397036
+maaku,マーク,mark/symbol/insignia/logo/label/emblem,True,False,False,False,396364
+sutaa,スター,"star (cinema, sports, etc.)/celebrity/idol",True,False,False,False,393192
+risuku,リスク,risk,True,False,False,False,393009
+baajon,バージョン,version,True,False,False,False,391733
+bodi,ボディ,body,True,False,False,False,391487
+purasu,プラス,plus/addition,True,True,False,False,386086
+guriin,グリーン,green (colour),True,False,False,False,385745
+sukiru,スキル,skill,True,False,False,False,385501
+torakku,トラック,truck/lorry,True,False,False,False,385248
+karee,カレー,curry (esp. Japanese curry),True,False,False,False,384223
+baa,バー,bar,True,False,False,False,383699
+resutoran,レストラン,restaurant (esp. Western-style),True,False,False,False,381408
+ai,アイ,"dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)",True,False,False,False,380563
+riigu,リーグ,league,True,False,False,False,379706
+soro,ソロ,solo,True,False,False,False,374711
+shoo,ショー,show,True,False,False,False,374598
+misu,ミス,mistake/error/failure,True,True,False,False,374386
+aidoru,アイドル,entertainer (esp. boy band or girl group member) whose image is manufactured to cultivate a dedicated consumer fan following/Japanese idol,True,False,False,False,374242
+debyuu,デビュー,debut/doing something for the first time,True,True,False,False,373071
+taimingu,タイミング,timing,True,False,False,False,372785
+ruuru,ルール,rule,True,False,False,False,372396
+fasshon,ファッション,fashion,True,False,False,False,370727
+chansu,チャンス,chance/opportunity,True,False,False,False,370603
+daun,ダウン,going down/fall/decrease/drop,True,True,False,False,368912
+pakku,パック,packing/packaging/wrapping/container,True,True,False,False,367936
+chiketto,チケット,ticket,True,False,False,False,365745
+kooto,コート,coat,True,False,False,False,364764
+puran,プラン,plan/scheme,True,False,False,False,363990
+igirisu,イギリス,United Kingdom/Britain/Great Britain,True,False,False,False,363761
+indo,インド,India,True,False,False,False,362701
+pasu,パス,"passing (a test, examination, etc.)",True,True,False,False,362369
+konsaato,コンサート,concert,True,False,False,False,360948
+kopii,コピー,copy/photocopy,True,True,False,False,360853
+paatsu,パーツ,part/component,True,False,False,False,358939
+ringu,リング,ring,True,False,False,False,358827
+tsuuru,ツール,"tool (esp. software, etc.)",True,False,False,False,358446
+ran,ラン,run,True,False,False,False,356109
+za,ザ,the,False,False,False,False,354161
+kafe,カフェ,café/cafe/coffeehouse,True,False,False,False,351420
+guzzu,グッズ,goods/promotional items,True,False,False,False,346925
+rasuto,ラスト,last/final,True,True,False,False,346914
+nooto,ノート,notebook/copy-book/exercise book,True,False,False,False,345203
+ruuto,ルート,route/path,True,False,False,False,344779
+ririisu,リリース,"release (of a film, music album, software, etc.)/publication",True,True,False,False,343565
+gooru,ゴール,goal/basket (basketball)/finishing line/winning post,True,True,False,False,340738
+gaido,ガイド,guide/tour guide/conductor/guiding/leading,True,True,False,False,339961
+haado,ハード,hard/tough,True,False,True,False,338730
+piisu,ピース,peace,True,False,False,False,338621
+ka,カ,mosquito,True,False,False,False,335243
+yooroppa,ヨーロッパ,Europe,True,False,False,False,334750
+waarudo,ワールド,world,True,False,False,False,334036
+renzu,レンズ,lens,True,False,False,False,332009
+tenshon,テンション,(emotional) tension/anxiety,True,False,False,False,331517
+zero,ゼロ,zero/nought/nil,True,False,False,False,330670
+reddo,レッド,red,True,False,True,False,327937
+kontorooru,コントロール,control,True,True,False,False,326822
+aateisuto,アーティスト,artist/musician,True,False,False,False,324853
+shinguru,シングル,single,True,False,False,False,323574
+auto,アウト,"out (of a ball, in tennis, etc.)/outside the line",True,False,False,False,323039
+beruto,ベルト,"belt (waist, seat, etc.)/strap",True,False,False,False,322335
+adobaisu,アドバイス,advice,True,True,False,False,321447
+jaketto,ジャケット,jacket,True,False,False,False,320084
+roshia,ロシア,Russia,True,False,False,False,318257
+roon,ローン,loan,True,False,False,False,317895
+dameeji,ダメージ,damage,True,False,False,False,316704
+irasuto,イラスト,illustration/picture/sketch/drawing/figure,True,False,False,False,315587
+rongu,ロング,long,True,False,True,False,315227
+toreeningu,トレーニング,training,True,True,False,False,315133
+riidaa,リーダー,leader,True,False,False,False,313113
+meetoru,メートル,metre/meter,True,False,False,False,312782
+kisu,キス,kiss,True,True,False,False,312689
+suupu,スープ,(Western) soup,True,False,False,False,312424
+shokku,ショック,shock (psychological),True,False,False,False,311908
+gomu,ゴム,gum/rubber,True,False,False,False,309987
+kontentsu,コンテンツ,contents/content,True,False,False,False,309138
+gesuto,ゲスト,guest,True,False,False,False,308001
+masutaa,マスター,to master (a skill),True,True,False,False,306337
+peesu,ペース,pace,True,False,False,False,306074
+rogu,ログ,log/journal,True,False,False,False,305525
+senchi,センチ,centimeter/centimetre,True,False,False,False,304684
+saabaa,サーバー,server,True,False,False,False,303677
+toraburu,トラブル,trouble,True,False,False,False,303072
+daunroodo,ダウンロード,download,True,True,False,False,301768
+doraibu,ドライブ,drive/trip by car/driving,True,False,False,False,301710
+papa,パパ,papa/dad/daddy,True,False,False,False,300678
+tatchi,タッチ,touch,True,True,False,False,300611
+ressun,レッスン,lesson,True,False,False,False,300462
+keeburu,ケーブル,cable,True,False,False,False,300038
+intabyuu,インタビュー,"interview (i.e. television, newspaper, etc.)",True,True,False,False,299701
+shoppingu,ショッピング,shopping,True,True,False,False,299551
+rabu,ラブ,love,True,True,False,False,298300
+haato,ハート,heart,True,False,False,False,298273
+aisu,アイス,ice,True,False,False,False,296618
+ooru,オール,oar,True,False,False,False,296103
+akushon,アクション,action,True,False,False,False,296088
+mashin,マシン,machine,True,False,False,False,294853
+daburu,ダブル,double,True,False,False,False,294103
+paateii,パーティー,"party (gathering, celebration, etc.)",True,False,False,False,293784
+orenji,オレンジ,"orange (fruit, colour)",True,False,False,False,293440
+bokkusu,ボックス,box,True,False,False,False,291377
+pen,ペン,pen,True,False,False,False,289741
+shooto,ショート,short,True,False,True,False,288018
+aho,アホ,fool/idiot/simpleton,True,False,True,False,287425
+insutooru,インストール,installation (esp. software),True,True,False,False,286961
+shirubaa,シルバー,silver,True,False,True,False,286715
+ruumu,ルーム,room,True,False,False,False,285988
+suutsu,スーツ,suit (clothing),True,False,False,False,285978
+purinto,プリント,print/printing/(printed) copy,True,True,False,False,285971
+kirei,キレイ,pretty/lovely/beautiful/fair,True,False,True,False,285458
+saundo,サウンド,sound,True,False,False,False,285077
+masukomi,マスコミ,mass communication/mass media,True,False,False,False,284540
+adoresu,アドレス,address,True,False,False,False,284507
+kyanpeen,キャンペーン,"promotion (e.g. sales, etc.)/marketing campaign",True,False,False,False,284471
+chiizu,チーズ,cheese,True,False,False,False,283732
+rentaru,レンタル,rental,True,True,False,False,283051
+tooku,トーク,"talk (esp. by a talk-show host, or by a stage musician to the audience between songs)/banter/chat",True,False,False,False,282799
+aato,アート,art,True,False,False,False,282467
+furonto,フロント,"front (aspect, weather, war-front, etc.)",True,False,False,False,282305
+burokku,ブロック,blocking (e.g. the way)/obstructing,True,True,False,False,281092
+sanpuru,サンプル,sample/example/specimen,True,False,False,False,280858
+sekkusu,セックス,sex/sexual intercourse,True,True,False,False,280854
+repooto,レポート,report/paper,True,True,False,False,279987
+eko,エコ,ecological/eco-,True,False,True,False,278254
+janpu,ジャンプ,jump,True,True,False,False,278240
+roodo,ロード,road,True,False,False,False,278025
+nyuu,ニュー,new,True,True,False,False,277846
+doresu,ドレス,dress,True,False,False,False,276969
+sain,サイン,autograph/signature,True,True,False,False,275996
+komyunikeeshon,コミュニケーション,communication,True,False,False,False,274868
+ranchi,ランチ,lunch,True,False,False,False,274042
+ga,ガ,moth,True,False,False,False,273864
+kurosu,クロス,cross,True,False,False,False,273771
+fuudo,フード,hood,True,False,False,False,273734
+heddo,ヘッド,head,True,False,False,False,273005
+pin,ピン,"pin (e.g. hairpin, bowling pin, golf pin, etc.)",True,False,False,False,271465
+sukuuru,スクール,school,True,False,False,False,270084
+meiku,メイク,make-up,True,True,False,False,268638
+fureemu,フレーム,frame,True,False,False,False,268568
+kuuru,クール,"cool (temperature, color, etc.)",True,False,True,False,267931
+tagu,タグ,tag/label,True,False,False,False,267872
+seminaa,セミナー,seminar,True,False,False,False,267289
+pakkeeji,パッケージ,package,True,True,False,False,266175
+teepu,テープ,tape,True,False,False,False,266149
+choko,チョコ,chocolate,True,False,False,False,265992
+rizumu,リズム,rhythm,True,False,False,False,265693
+memo,メモ,memo/note/memorandum,True,True,False,False,264271
+gomi,ゴミ,rubbish/trash/garbage/refuse,True,False,False,False,264063
+waaku,ワーク,work,True,False,False,False,263886
+supein,スペイン,Spain,True,False,False,False,262591
+sukii,スキー,skiing,True,False,False,False,262377
+ranku,ランク,rank/standing,True,True,False,False,262189
+paneru,パネル,panel,True,False,False,False,261476
+puree,プレー,play/recreation,True,True,False,False,260008
+suponsaa,スポンサー,sponsor,True,False,False,False,259981
+bikkuri,ビックリ,to be surprised/to be amazed/to be frightened/to be astonished/to get startled/to jump,True,True,False,True,259528
+konbini,コンビニ,convenience store,True,False,False,False,259246
+apuri,アプリ,app/application,True,False,False,False,258787
+fuji,フジ,"wisteria (esp. Japanese wisteria, Wisteria floribunda)/wistaria",True,False,False,False,258366
+chan,チャン,asphalt/bitumen,True,False,False,False,258228
+boodo,ボード,board,True,False,False,False,258122
+goorudo,ゴールド,gold,True,False,True,False,258040
+pafoomansu,パフォーマンス,"performance (e.g. music, dance, pantomime, etc.)",True,False,False,False,257845
+raifu,ライフ,life,True,False,False,False,256839
+taiya,タイヤ,tire/tyre,True,False,False,False,256713
+sutando,スタンド,stands/bleachers,True,False,False,False,255869
+uebu,ウェブ,web,True,False,False,False,254947
+sukaato,スカート,skirt,True,False,False,False,253149
+getto,ゲット,"getting (something)/obtaining/scoring (goal, point, etc.)",True,True,False,False,253146
+yunitto,ユニット,unit,True,False,False,False,253018
+saakuru,サークル,group with a common interest (e.g. students)/club (e.g. company sports club)/circle,True,False,False,False,251881
+sutajio,スタジオ,studio,True,False,False,False,251112
+buutsu,ブーツ,boots,True,False,False,False,250647
+taoru,タオル,towel,True,False,False,False,250133
+suitchi,スイッチ,switch,True,True,False,False,249638
+paato,パート,part,True,False,False,False,249396
+tomato,トマト,tomato (Solanum lycopersicum),True,False,False,False,248901
+kitchin,キッチン,kitchen,True,False,False,False,248133
+kauntaa,カウンター,counter,True,False,False,False,247418
+bitamin,ビタミン,vitamin,True,False,False,False,247157
+meritto,メリット,advantage/benefit/merit,True,False,False,False,246730
+rei,レイ,lei (garland of flowers),True,False,False,False,245798
+mappu,マップ,map,True,False,False,False,245792
+mainasu,マイナス,minus/negative (quantity)/subtraction/taking away,True,True,False,False,244996
+tekisuto,テキスト,text,True,False,False,False,243785
+seeru,セール,sale,True,False,False,False,243738
+sensu,センス,"taste (in fashion, music, etc.)/sense (e.g. of humour)/flair",True,False,False,False,243540
+pureiyaa,プレイヤー,player,True,False,False,False,242445
+dekki,デッキ,"deck (e.g. ship, tape, cassette, observation, train vestibule, etc.)",True,False,False,False,242276
+manga,マンガ,cartoon/comic/comic strip/manga,True,False,False,False,242154
+apurikeeshon,アプリケーション,application/application software,True,False,False,False,240708
+opushon,オプション,option/selecting an option,True,True,False,False,240547
+konpyuuta,コンピュータ,computer,True,False,False,False,240425
+cheen,チェーン,"chain (bicycle, measuring, tire, etc.)",True,False,False,False,239151
+menzu,メンズ,"men's (fashion, wear, etc.)",True,False,False,False,238814
+bosu,ボス,boss/leader/head,True,False,False,False,238495
+shotto,ショット,shot (in films),True,False,False,False,237712
+reshipi,レシピ,recipe,True,False,False,False,237444
+ofisu,オフィス,office,True,False,False,False,236410
+puuru,プール,(swimming) pool,True,False,False,False,236226
+shii,シー,sea,True,False,False,False,235221
+takushii,タクシー,taxi,True,False,False,False,235043
+suteppu,ステップ,step,True,True,False,False,234779
+saaba,サーバ,server,True,False,False,False,233856
+saron,サロン,salon/saloon/reception room,True,False,False,False,233037
+hiroin,ヒロイン,heroine,True,False,False,False,232351
+nanbaa,ナンバー,number,True,False,False,False,231576
+ma,マ,for real,False,False,False,False,231179
+kyanpu,キャンプ,camp,True,True,False,False,230981
+sofutouea,ソフトウェア,software,True,False,False,False,230330
+ria,リア,rear,True,False,True,False,229776
+monsutaa,モンスター,monster/monstrosity,True,False,False,False,229510
+disuku,ディスク,disk,True,False,False,False,229354
+to,ト,7th in a sequence denoted by the iroha system,True,False,False,False,229138
+rando,ランド,land,True,False,False,False,228316
+gifuto,ギフト,gift,True,False,False,False,228165
+supesharu,スペシャル,special,True,False,True,False,227813
+hea,ヘア,hair (of the head),True,False,False,False,227618
+botoru,ボトル,bottle,True,False,False,False,227602
+batterii,バッテリー,battery,True,False,False,False,227404
+japan,ジャパン,Japan,True,False,False,False,227176
+batoru,バトル,battle,True,False,False,False,225195
+buraun,ブラウン,brown,True,False,False,False,224972
+arenji,アレンジ,"arrangement (music, objects, etc.)/organization/adaptation",True,True,False,False,224343
+kurejitto,クレジット,credit,True,False,False,False,224187
+karaoke,カラオケ,karaoke,True,False,False,False,224088
+noo,ノー,no,False,False,False,False,223812
+rediisu,レディース,"ladies' (fashion, etc.)",True,False,False,False,222407
+bebii,ベビー,baby,True,False,False,False,221359
+naito,ナイト,night,True,False,False,False,221266
+pari,パリ,Paris (France),True,False,False,False,220969
+uesuto,ウエスト,waist/waistline/waist measurement,True,False,False,False,220764
+demo,デモ,demonstration/protest,True,False,False,False,220684
+raidaa,ライダー,rider,True,False,False,False,220066
+oonaa,オーナー,owner,True,False,False,False,219298
+memori,メモリ,memory,True,False,False,False,218964
+sumaato,スマート,"smart (clothing, etc.)/stylish",True,False,True,False,218710
+konpakuto,コンパクト,compact,True,False,True,False,217832
+ion,イオン,ion,True,False,False,False,217465
+kyaria,キャリア,career,True,False,False,False,217168
+riido,リード,lead/leading/taking the lead,True,True,False,False,216968
+apiiru,アピール,appeal (e.g. to public opinion)/plea/request,True,True,False,False,216473
+dokidoki,ドキドキ,thump-thump/bang-bang/pit-a-pat/pitapat/pitter-patter,False,False,False,True,216272
+kyasuto,キャスト,"cast (play, film, etc.)",True,True,False,False,215510
+boranteia,ボランティア,volunteer,True,True,False,False,215170
+adaruto,アダルト,adult,True,False,False,False,214760
+matto,マット,mat,True,False,False,False,214643
+purosesu,プロセス,process,True,False,False,False,214531
+desu,デス,death,True,False,False,False,213971
+endo,エンド,end,True,False,False,False,213944
+esute,エステ,beauty treatment/cosmetology,True,False,False,False,213855
+inchi,インチ,inch,True,False,False,False,213235
+rezaa,レザー,leather,True,False,False,False,213135
+oosutoraria,オーストラリア,Australia,True,False,False,False,212981
+anchi,アンチ,anti-,False,False,False,False,212752
+doragon,ドラゴン,dragon (as depicted in Western myths),True,False,False,False,212584
+sarada,サラダ,salad,True,False,False,False,212535
+shinario,シナリオ,script/screenplay,True,False,False,False,212456
+supotto,スポット,spot/dot/mark,True,False,False,False,212240
+ari,アリ,ant,True,False,False,False,212120
+sukejuuru,スケジュール,schedule,True,True,False,False,211759
+koochi,コーチ,coach,True,True,False,False,210669
+rogo,ロゴ,logo,True,False,False,False,209948
+koa,コア,core,True,False,False,False,209028
+monitaa,モニター,(computer) monitor,True,False,False,False,208814
+pokemon,ポケモン,Pokémon,True,False,False,False,208500
+taan,ターン,turn,True,True,False,False,207774
+masuku,マスク,(face) mask,True,False,False,False,207642
+ea,エア,air,True,False,False,False,207638
+arubaito,アルバイト,part-time job/side job,True,True,False,False,207571
+roo,ロー,low,True,True,False,False,207434
+suruu,スルー,ignoring/looking the other way/letting pass,True,True,False,False,206392
+paaku,パーク,"park (public, amusement, etc.)",True,False,False,False,206381
+miruku,ミルク,milk,True,False,False,False,206141
+foomu,フォーム,foam,True,False,False,False,205565
+maruchi,マルチ,multi-,True,False,True,False,205223
+ribon,リボン,ribbon,True,False,False,False,204767
+deeto,デート,date (with someone)/(social) outing (for two)/date night,True,True,False,False,204464
+serifu,セリフ,serif,True,False,False,False,203911
+tenisu,テニス,tennis,True,False,False,False,203424
+maiku,マイク,mike/mic/microphone,True,False,False,False,202643
+bara,バラ,rose,True,False,False,False,202563
+tabako,タバコ,tobacco/cigarette/cigaret/cigar,True,False,False,False,202438
+beru,ベル,bell,True,False,False,False,201827
+rin,リン,phosphorus (P),True,False,False,False,201562
+boryuumu,ボリューム,volume (sound level),True,False,False,False,201298
+oodaa,オーダー,order/reservation,True,True,False,False,200532
+rooru,ロール,roll,True,True,False,False,200226
+buumu,ブーム,boom/rage/fad,True,True,False,False,200153
+korekushon,コレクション,collection,True,False,False,False,199538
+doraibaa,ドライバー,driver (of a vehicle),True,False,False,False,198714
+episoodo,エピソード,episode/anecdote/vignette,True,False,False,False,198638
+sabu,サブ,sub/substitute/reserve/backup,True,False,False,False,198212
+mobairu,モバイル,mobile,True,True,False,False,198170
+robotto,ロボット,robot,True,False,False,False,197633
+gurasu,グラス,glass (drinking vessel),True,False,False,False,197303
+charenji,チャレンジ,taking on (a challenge)/attempt/try/tackling/challenging (someone to a contest),True,True,False,False,197260
+pojishon,ポジション,position,True,False,False,False,197114
+shawaa,シャワー,shower,True,False,False,False,196757
+poriesuteru,ポリエステル,polyester,True,False,False,False,196696
+firumu,フィルム,film,True,False,False,False,196288
+guree,グレー,grey (gray),True,False,True,False,195836
+banku,バンク,bank,True,False,False,False,195114
+matchi,マッチ,match (to light fire with),True,False,False,False,193834
+ton,トン,"ton (now usu. a metric ton, i.e. 1,000kg)/tonne",True,False,False,False,193648
+poozu,ポーズ,pose,True,False,False,False,193564
+sekyuritei,セキュリティ,security,True,False,False,False,193480
+tanku,タンク,tank (of liquid),True,False,False,False,192775
+manyuaru,マニュアル,(instruction) manual,True,False,False,False,192764
+mausu,マウス,mouse (esp. laboratory),True,False,False,False,192731
+meido,メイド,maid,True,False,False,False,192532
+konseputo,コンセプト,concept/general idea/notion,True,False,False,False,192313
+kingu,キング,king,True,False,False,False,192206
+juusu,ジュース,juice,True,False,False,False,191761
+teii,ティー,tea,True,False,False,False,191458
+akusesarii,アクセサリー,accessory (fashion)/jewelry,True,False,False,False,191097
+arukooru,アルコール,alcohol,True,False,False,False,191061
+jazu,ジャズ,jazz,True,False,False,False,190930
+posuto,ポスト,postbox/mailbox/mail box/pillar box,True,False,False,False,190736
+hawai,ハワイ,Hawaii/Hawai'i,True,False,False,False,190437
+kirisuto,キリスト,Christ,True,False,False,False,190058
+nyuuyooku,ニューヨーク,New York,True,False,False,False,189265
+toyota,トヨタ,Toyota,False,False,False,False,189139
+doomu,ドーム,dome,True,False,False,False,189128
+nachuraru,ナチュラル,natural,True,False,True,False,189040
+biggu,ビッグ,big,True,False,True,False,188961
+sutorappu,ストラップ,"strap (often decorative for key-holder, mobile phones, etc.)",True,False,False,False,188645
+souru,ソウル,soul,True,False,False,False,188438
+interia,インテリア,"interior (of building, room, vehicle, etc.)",True,False,False,False,188374
+shuuzu,シューズ,shoes,True,False,False,False,188340
+chokoreeto,チョコレート,chocolate,True,False,False,False,188288
+deetabeesu,データベース,database,True,False,False,False,188236
+sutoreeto,ストレート,straight,True,False,True,False,187521
+gandamu,ガンダム,Gundam,False,False,False,False,187355
+iya,イヤ,disagreeable/detestable/unpleasant/reluctant,True,False,True,False,186886
+oobaa,オーバー,overcoat,True,False,False,False,185470
+doramu,ドラム,drum/drums/drum kit,True,False,False,False,185450
+channeru,チャンネル,channel,True,False,False,False,184923
+bukku,ブック,book,True,False,False,False,184849
+uirusu,ウイルス,virus,True,False,False,False,184774
+rekoodo,レコード,record (e.g. LP),True,False,False,False,184336
+chippu,チップ,tip/gratuity,True,False,False,False,183863
+kurashikku,クラシック,classical music,True,False,False,False,182837
+paatei,パーティ,"party (gathering, celebration, etc.)",True,False,False,False,182803
+konbi,コンビ,combination/pair/duo,True,False,False,False,182302
+ekisu,エキス,"extract (of plants, meat, etc.)/essence",True,False,False,False,181317
+kooru,コール,(telephone) call/(telephone) ring,True,True,False,False,181307
+kitto,キット,kit,True,False,False,False,181072
+ookushon,オークション,auction,True,False,False,False,180814
+handoru,ハンドル,handle,True,False,False,False,180436
+pachinko,パチンコ,pachinko/mechanical gambling game superficially resembling pinball,True,True,False,False,180211
+jon,ジョン,"jeon/Korean dish of meat, vegetables, etc. coated in flour and egg and fried",True,False,False,False,179560
+kappuru,カップル,couple,True,False,False,False,179521
+chatto,チャット,(Internet) chat,True,True,False,False,178773
+fiirudo,フィールド,field,True,False,False,False,178605
+roozu,ローズ,rose,True,False,False,False,177901
+kurinikku,クリニック,clinic,True,False,False,False,177872
+gaado,ガード,guard,True,True,False,False,177821
+seru,セル,cell,True,False,False,False,177201
+miri,ミリ,milli-/10^-3,False,False,False,False,176506
+shanpuu,シャンプー,shampoo,True,True,False,False,175962
+masu,マス,mass,True,False,False,False,175816
+girigiri,ギリギリ,just barely/only just/at the very limit/at the last moment,True,False,True,True,175763
+kiiboodo,キーボード,keyboard,True,False,False,False,175599
+megane,メガネ,glasses/eyeglasses/spectacles,True,False,False,False,175473
+horumon,ホルモン,hormone,True,False,False,False,175397
+shin,シン,thin,True,False,False,False,175291
+mashi,マシ,better/preferable/less objectionable/least-worst,True,False,True,False,175166
+ikemen,イケメン,good-looking guy/handsome man/hunk/Adonis/cool guy,True,False,False,False,175072
+ankeeto,アンケート,questionnaire/survey,True,False,False,False,175022
+rea,レア,rare/uncommon/unusual,True,False,True,False,174836
+renji,レンジ,range/stove/cooker,True,False,False,False,174627
+sukuriin,スクリーン,screen,True,False,False,False,174488
+arerugii,アレルギー,allergy,True,False,False,False,174411
+mejaa,メジャー,major/large/important/famous/mainstream,True,False,True,False,174036
+posutaa,ポスター,poster,True,False,False,False,173676
+aru,アル,two,False,False,False,False,173299
+kanada,カナダ,Canada,True,False,False,False,173280
+damu,ダム,dam,True,False,False,False,173101
+marason,マラソン,marathon/long-distance race,True,False,False,False,172896
+apaato,アパート,apartment building/apartment block/apartment house,True,False,False,False,172555
+hotto,ホット,hot,True,False,True,False,172167
+bureeki,ブレーキ,brake,True,False,False,False,171909
+maikuro,マイクロ,micro-/micro/10^-6,True,True,False,False,171656
+daaku,ダーク,dark,True,False,True,False,171480
+burashi,ブラシ,brush,True,False,False,False,171093
+purofiiru,プロフィール,profile,True,False,False,False,170913
+puchi,プチ,small,False,False,False,False,170640
+karorii,カロリー,calorie,True,False,False,False,170348
+niizu,ニーズ,needs/demands/requests,True,False,False,False,170223
+sumuuzu,スムーズ,smooth,True,False,True,False,169890
+nori,ノリ,"nori/laver/edible seaweed, usu. Porphyra yezoensis or P. tenera, usu. dried and pressed into sheets",True,False,False,False,169349
+dizunii,ディズニー,Disney,True,False,False,False,169241
+pureeto,プレート,"plate (often as in ""tectonic plate"")",True,False,False,False,169139
+reezaa,レーザー,laser/Light Amplification by Stimulated Emission of Radiation,True,False,False,False,168862
+obu,オブ,of,False,False,False,False,168609
+figyua,フィギュア,figure/form/shape,True,False,False,False,168603
+etchi,エッチ,H/h,True,False,False,False,168492
+ribingu,リビング,living/lifestyle,True,False,False,False,168403
+nabi,ナビ,navigation/(car) navigation system,True,False,False,False,168201
+kan,カン,can/tin,True,False,False,False,167601
+fon,フォン,phon (unit of loudness),True,False,False,False,167479
+rondon,ロンドン,London (UK),True,False,False,False,166790
+paatonaa,パートナー,partner,True,False,False,False,166411
+sutoon,ストーン,stone,True,False,False,False,166199
+songu,ソング,song,True,False,False,False,166148
+boonasu,ボーナス,bonus,True,False,False,False,165954
+pure,プレ,pre-,False,False,False,False,165864
+kategori,カテゴリ,category,True,False,False,False,165776
+burajiru,ブラジル,Brazil,True,False,False,False,165404
+shiiru,シール,seal,True,False,False,False,165240
+yuuro,ユーロ,Euro-,True,False,False,False,165203
+eakon,エアコン,air con/air conditioner/air conditioning,True,False,False,False,165144
+tsubo,ツボ,pot/jar/vase,True,False,False,False,165097
+eraa,エラー,error,True,False,False,False,164805
+maaketeingu,マーケティング,marketing,True,False,False,False,164777
+rirakkusu,リラックス,relax,True,True,False,False,164409
+tekunikku,テクニック,technique,True,False,False,False,164170
+rooma,ローマ,Rome,True,False,False,False,163999
+supiikaa,スピーカー,speaker,True,False,False,False,163954
+dorai,ドライ,dry,True,False,True,False,163887
+onanii,オナニー,masturbation,True,False,False,False,163806
+majikku,マジック,magic,True,False,False,False,163614
+kajuaru,カジュアル,casual,True,False,True,False,163545
+biichi,ビーチ,beach,True,False,False,False,163099
+gee,ゲー,Gaia (Greek goddess)/Gaea,True,False,False,False,163004
+hamu,ハム,ham (cured pig meat),True,False,False,False,162999
+tawaa,タワー,tower,True,False,False,False,162986
+hito,ヒト,man/person,True,False,False,False,162984
+ranpu,ランプ,lamp/light,True,False,False,False,162689
+famirii,ファミリー,family,True,False,False,False,162574
+nitto,ニット,knit/knitted fabric/knitted garments,True,False,False,False,162538
+kuraianto,クライアント,client,True,False,False,False,162467
+dezainaa,デザイナー,designer,True,False,False,False,162040
+aidea,アイデア,idea,True,False,False,False,161826
+inpakuto,インパクト,impact (on)/(strong) impression/effect/influence,True,False,False,False,161785
+entorii,エントリー,"entry (into an event, competition, etc.)/applying for entry/registering to participate",True,True,False,False,161039
+katarogu,カタログ,catalog/catalogue,True,True,False,False,160912
+dorinku,ドリンク,drink,True,False,False,False,160757
+gasorin,ガソリン,gasoline/petrol,True,False,False,False,160481
+furuutsu,フルーツ,fruit,True,False,False,False,160408
+rizooto,リゾート,resort,True,False,False,False,160379
+shitei,シティ,city,True,False,False,False,159741
+myuujikku,ミュージック,music,True,False,False,False,159649
+supekku,スペック,specifications/specs,True,False,False,False,159527
+poppu,ポップ,pop,True,True,True,False,159227
+benchi,ベンチ,bench,True,False,False,False,159203
+eru,エル,"ell (unit of length, approx. 45 inches)",True,False,False,False,158734
+metaru,メタル,metal,True,False,False,False,158021
+oshare,オシャレ,smartly dressed/stylish/fashion-conscious,True,False,True,False,157965
+pooru,ポール,pole,True,False,False,False,157715
+basuto,バスト,bust (measurement),True,False,False,False,157649
+nekkuresu,ネックレス,necklace,True,False,False,False,157090
+bura,ブラ,bra,True,False,False,False,157015
+infuruenza,インフルエンザ,influenza/flu,True,False,False,False,156507
+karendaa,カレンダー,calendar,True,False,False,False,156462
+kyuuto,キュート,cute,True,False,True,False,156245
+rosu,ロス,loss,True,True,False,False,155904
+hiiroo,ヒーロー,hero,True,False,False,False,155672
+sekushii,セクシー,sexy,True,False,True,False,155327
+tarento,タレント,(TV or radio) entertainer/television personality/radio personality,True,False,False,False,155017
+haafu,ハーフ,half,True,False,False,False,154788
+ooto,オート,auto/automobile/automatic,True,False,False,False,154772
+haabu,ハーブ,herb,True,False,False,False,154304
+keetai,ケータイ,carrying (on one's person or in the hand),True,True,False,False,154168
+pea,ペア,pair,True,False,False,False,154093
+ro,ロ,Russia,True,False,False,False,153635
+orinpikku,オリンピック,Olympics,True,False,False,False,153566
+taagetto,ターゲット,target,True,False,False,False,153314
+ana,アナ,announcer,True,False,False,False,153306
+furawaa,フラワー,flower,True,False,False,False,153172
+anaru,アナル,anal,True,True,False,False,153124
+jakku,ジャック,jack/knave,True,False,False,False,152737
+pasuta,パスタ,pasta,True,False,False,False,152616
+tero,テロ,terror/terrorism,True,False,False,False,152534
+taun,タウン,town,True,False,False,False,152371
+fitto,フィット,fit,True,True,False,False,152363
+yuuza,ユーザ,user,True,False,False,False,152153
+jimu,ジム,gym/gymnasium,True,False,False,False,152140
+betonamu,ベトナム,Vietnam,True,False,False,False,152071
+kirakira,キラキラ,glittering/sparkling/glistening/twinkling,True,True,False,True,151802
+don,ドン,Don (Spanish honorific),True,False,False,False,151454
+shuuto,シュート,"shooting (a ball)/shot (on basket, at goal, etc.)",True,True,False,False,151428
+sukkiri,スッキリ,refreshingly/with a feeling of relief/pleasantly/(a weight) off one's shoulder,True,True,False,True,151425
+kyatchi,キャッチ,catch/catching/obtaining (e.g. information)/receiving (e.g. radio transmission or phone call),True,True,False,False,151043
+tsuu,ツー,two,True,False,False,False,150751
+sonii,ソニー,Sony,False,False,False,False,150527
+maaketto,マーケット,market,True,False,False,False,150441
+mochiifu,モチーフ,motif,True,False,False,False,150404
+jietto,ジェット,jet,True,False,False,False,150401
+rakkii,ラッキー,lucky,True,False,True,False,150281
+neemu,ネーム,name,True,False,False,False,149868
+kategorii,カテゴリー,category,True,False,False,False,149628
+kyappu,キャップ,cap (headwear),True,False,False,False,149552
+anarogu,アナログ,analog/analogue,True,False,True,False,149436
+faasuto,ファースト,first,True,True,False,False,149361
+foroo,フォロー,follow,True,True,False,False,148974
+nekku,ネック,neck,True,False,False,False,148806
+iraira,イライラ,to get irritated/to get annoyed/to be on the edge/to fret/to lose patience,True,True,False,True,148804
+apuroochi,アプローチ,approach,True,True,False,False,148510
+kotton,コットン,cotton,True,False,False,False,148437
+afurika,アフリカ,Africa,True,False,False,False,148305
+kyanseru,キャンセル,cancellation,True,True,False,False,148295
+shiruetto,シルエット,silhouette,True,False,False,False,148180
+aroma,アロマ,aroma,True,False,True,False,147727
+sesshon,セッション,session,True,False,False,False,147701
+eesu,エース,ace (playing card),True,False,False,False,147627
+nikoniko,ニコニコ,with a friendly grin/smilingly,True,True,False,True,146887
+nouhau,ノウハウ,know-how,True,False,False,False,146836
+burauza,ブラウザ,(web) browser,True,False,False,False,146497
+mineraru,ミネラル,mineral,True,False,False,False,146358
+kuso,クソ,damn/damn it/shit/crap,False,False,False,False,146151
+furasshu,フラッシュ,flash (esp. of a camera)/flashlight/flashbulb,True,False,False,False,145952
+fera,フェラ,fellatio,True,True,False,False,145675
+sutenresu,ステンレス,stainless steel,True,False,False,False,145548
+rikuesuto,リクエスト,request,True,True,False,False,145520
+koma,コマ,coma (of a comet),True,False,False,False,145496
+bai,バイ,by,False,False,False,True,145209
+rifoomu,リフォーム,renovation (e.g. a house)/redecoration/makeover/updating,True,True,False,False,145205
+firutaa,フィルター,filter (esp. camera),True,False,False,False,144975
+ban,バン,bun,True,False,False,False,144673
+raundo,ラウンド,"round (esp. in sports, negotiations, etc.)/rounds (e.g. nurse, security guard, etc.)",True,False,False,False,144564
+sukin,スキン,skin,True,False,False,False,144549
+puraibeeto,プライベート,private,True,False,True,False,144160
+muubii,ムービー,movie,True,False,False,False,143703
+dezaato,デザート,dessert,True,False,False,False,143449
+gurume,グルメ,fine food/high-quality food,True,False,False,False,143382
+banana,バナナ,banana,True,False,False,False,143311
+peepaa,ペーパー,paper,True,False,False,False,142709
+happii,ハッピー,happy,True,False,True,False,142679
+ten,テン,10/ten,True,False,False,False,142626
+antena,アンテナ,antenna,True,False,False,False,142494
+manaa,マナー,manners/etiquette,True,False,False,False,142243
+mania,マニア,enthusiast,True,False,False,False,142110
+dee,デー,day (as in holiday),False,False,False,False,141994
+nairon,ナイロン,nylon,True,False,False,False,141875
+disupurei,ディスプレイ,display,True,True,False,False,141829
+dora,ドラ,gong/tam-tam,True,False,False,False,141824
+hando,ハンド,hand,True,False,False,False,141661
+feisu,フェイス,face,True,False,False,False,141584
+dejikame,デジカメ,digital camera,True,False,False,False,141398
+oodio,オーディオ,audio,True,False,False,False,141218
+waido,ワイド,wide,True,False,True,False,141145
+shifuto,シフト,shift/move,True,True,False,False,141017
+risaikuru,リサイクル,recycling,True,True,False,False,140564
+raibaru,ライバル,rival/competition,True,False,False,False,140332
+purasuchikku,プラスチック,plastic,True,False,False,False,139888
+gooruden,ゴールデン,golden,True,False,False,False,139872
+re,レ,re/ray/2nd note of a major scale in movable-do solfège,True,False,False,False,139819
+kaaten,カーテン,curtain/curtains,True,False,False,False,139809
+remon,レモン,lemon,True,False,False,False,139684
+zoon,ゾーン,zone,True,False,False,False,139565
+gurando,グランド,large,True,False,False,False,139394
+komikku,コミック,comic books/comics,True,False,False,False,139270
+bataa,バター,butter,True,False,False,False,139253
+neiru,ネイル,nail/fingernail,True,False,False,False,139155
+komyunitei,コミュニティ,community,True,False,False,False,139152
+gaki,ガキ,brat/kid/urchin/little devil,True,False,False,False,139048
+mentenansu,メンテナンス,maintenance,True,False,False,False,138936
+regyuraa,レギュラー,regular,True,False,True,False,138742
+oranda,オランダ,Netherlands/Holland,True,False,False,False,138668
+kosupure,コスプレ,"cosplay (dressing in costume, esp. as a manga character, etc.)",True,False,False,False,138429
+bakkuappu,バックアップ,backup,True,True,False,False,138339
+guroobaru,グローバル,global,True,False,True,False,138290
+chikin,チキン,chicken,True,False,False,False,138191
+otaku,オタク,otaku/geek/nerd/enthusiast,True,False,False,False,138159
+komando,コマンド,(computer) command,True,False,False,False,138010
+kome,コメ,(husked grains of) rice,True,False,False,False,137832
+arumi,アルミ,aluminum (Al)/aluminium,True,False,False,False,137801
+supa,スパ,hot spring/mineral spring/spa,True,False,False,False,137622
+sutoretchi,ストレッチ,stretch,True,False,False,False,137430
+pittari,ピッタリ,tightly/closely,True,True,False,True,137402
+gyagu,ギャグ,joke/gag,True,False,False,False,137298
+raivu,ライヴ,"live (esp. concert, show, etc.)/live performance",True,True,False,False,137147
+junia,ジュニア,junior,True,True,False,False,136921
+daiyamondo,ダイヤモンド,"diamond (mineral, gemstone)",True,False,False,False,136704
+paddo,パッド,pad/padding,True,False,False,False,136489
+suteki,ステキ,lovely/wonderful/nice/great/fantastic/superb/cool,True,False,True,False,136327
+reeberu,レーベル,label (i.e. sticker),True,False,False,False,135887
+tenpo,テンポ,tempo,True,False,False,False,135779
+toreedo,トレード,trade,True,True,False,False,135747
+miraa,ミラー,mirror,True,False,False,False,135645
+gaaru,ガール,girl,True,False,False,False,135176
+repo,レポ,report/paper,True,False,False,False,135112
+gyararii,ギャラリー,gallery/corridor,True,False,False,False,135099
+hosuto,ホスト,"host (of a party, summit, etc.)",True,False,False,False,134969
+ika,イカ,cuttlefish/squid,True,False,False,False,134908
+puresu,プレス,pressing/stamping/printing,True,True,False,False,134813
+baton,バトン,"baton (relay, orchestral conducting, etc.)",True,False,False,False,134738
+foto,フォト,photo,True,False,False,False,134619
+fea,フェア,fair,True,False,True,False,134600
+jan,ジャン,ta-dah!/ta-da!/voilà!,False,False,False,False,134228
+mikkusu,ミックス,mix,True,True,False,False,133783
+sutoppu,ストップ,stop,True,True,False,False,133367
+gaaden,ガーデン,garden,True,False,False,False,133358
+kukkii,クッキー,cookie/biscuit,True,False,False,False,133073
+rookaru,ローカル,local,True,False,True,False,132997
+tei,ティ,tea,True,False,False,False,132384
+kuri,クリ,Japanese chestnut (Castanea crenata),True,False,False,False,132006
+innaa,インナー,inner,True,True,False,False,131960
+ieroo,イエロー,yellow,True,False,True,False,131900
+chenji,チェンジ,change,True,True,False,False,131356
+paaru,パール,pearl,True,False,False,False,131279
+imaichi,イマイチ,not quite (right)/not very good/somewhat (lacking),False,False,False,True,131204
+boke,ボケ,fool/idiot,True,False,False,False,131162
+domein,ドメイン,domain,True,False,False,False,131084
+piiku,ピーク,peak,True,False,False,False,130735
+misshon,ミッション,mission,True,False,False,False,130722
+furai,フライ,deep-fried food,True,False,False,False,130614
+rappu,ラップ,cling film/plastic wrap/cling wrap,True,False,False,False,130333
+debaisu,デバイス,device,True,False,False,False,129769
+tonneru,トンネル,tunnel,True,False,False,False,129745
+oopuningu,オープニング,opening/start/launch,True,False,False,False,129106
+paipu,パイプ,pipe/tube,True,False,False,False,128825
+kuesuto,クエスト,quest/pursuit/search,True,False,False,False,128480
+geeto,ゲート,"gate (for entry, boarding, etc.)",True,False,False,False,128441
+uootaa,ウォーター,water,True,False,False,False,128436
+chon,チョン,Korean (person),True,False,False,False,128246
+neko,ネコ,"cat (esp. the domestic cat, Felis catus)",True,False,False,False,128188
+dan,ダン,done,False,False,False,False,127987
+inku,インク,ink,True,False,False,False,127813
+sukoa,スコア,score,True,False,False,False,127800
+pai,パイ,pie/tart,True,False,False,False,127737
+bari,バリ,burr (e.g. on a machined edge),True,False,False,False,127037
+magajin,マガジン,magazine,True,False,False,False,126983
+booto,ボート,boat/rowing boat,True,False,False,False,126968
+yuu,ユー,you,True,False,False,False,126839
+urutora,ウルトラ,ultra,True,False,False,False,126783
+baburu,バブル,bubble,True,False,False,False,126642
+chirashi,チラシ,scattering,True,False,False,False,126363
+arisu,アリス,Alice,False,False,False,False,126325
+sutandaado,スタンダード,standard,True,False,True,False,126314
+koin,コイン,coin,True,False,False,False,126186
+pureeyaa,プレーヤー,player,True,False,False,False,125855
+kotsu,コツ,knack/skill/trick/secret/know-how/the ropes/hang,True,False,False,False,125716
+hiiru,ヒール,heel,True,False,False,False,125409
+fantajii,ファンタジー,fantasy,True,False,False,False,124987
+hippu,ヒップ,hips/buttocks/backside,True,False,False,False,124879
+jieru,ジェル,"gel (hair, soap)",True,False,False,False,124719
+yoga,ヨガ,yoga,True,False,False,False,124696
+kizzu,キッズ,kids/children,True,False,False,False,124597
+piasu,ピアス,earrings (for pierced ears),True,False,False,False,124097
+kontakuto,コンタクト,contact,True,True,False,False,124079
+pooto,ポート,port,True,False,False,False,123952
+sapurimento,サプリメント,supplement,True,False,False,False,123866
+puragu,プラグ,plug/connector,True,False,False,False,123841
+kurisutaru,クリスタル,crystal,True,False,False,False,123643
+maria,マリア,Mary (mother of Jesus)/the Virgin Mary,True,False,False,False,123214
+gyaru,ギャル,"gyaru/(young) woman adhering to a fashion trend usually marked by brown or blond-dyed hair, gaudy clothes and accessories",True,False,False,False,123015
+fasunaa,ファスナー,fastener/zipper,True,False,False,False,122942
+dei,デイ,day (as in holiday),False,False,False,False,122902
+hinto,ヒント,hint,True,False,False,False,122872
+oora,オーラ,aura,True,False,False,False,122703
+anpu,アンプ,amp/ampere,True,False,False,False,122580
+hame,ハメ,fucking/screwing/having sex,True,True,False,False,122355
+puremiamu,プレミアム,premium,True,False,False,False,122143
+men,メン,men/man,True,False,False,False,122064
+shiea,シェア,sharing/share (on social media),True,True,False,False,121924
+wota,ヲタ,otaku/geek/nerd/enthusiast,True,False,False,False,121831
+shorudaa,ショルダー,shoulder,True,False,False,False,121743
+kusshon,クッション,cushion,True,False,False,False,121612
+sensaa,センサー,sensor,True,False,False,False,121571
+maru,マル,circle,True,False,False,False,121405
+denimu,デニム,denim,True,False,False,False,121373
+suraido,スライド,slide (for projection)/transparency,True,False,False,False,121371
+opera,オペラ,opera,True,False,False,False,120945
+naifu,ナイフ,knife,True,False,False,False,120723
+bookaru,ボーカル,vocal (performance)/vocals/singing,True,False,False,False,120430
+medaru,メダル,medal,True,False,False,False,120429
+endingu,エンディング,ending,True,False,False,False,120300
+konkuriito,コンクリート,concrete,True,False,False,False,120147
+akusento,アクセント,"accent (on a syllable, word)/stress/pitch accent",True,False,False,False,120136
+puri,プリ,pre-,True,False,False,False,120004
+uea,ウェア,wear/clothing/dress,True,False,False,False,119946
+furoa,フロア,floor,True,False,False,False,119472
+mootaa,モーター,motor,True,False,False,False,119470
+foruda,フォルダ,folder,True,False,False,False,119402
+noomaru,ノーマル,normal,True,False,True,False,119396
+iraku,イラク,Iraq,True,False,False,False,119184
+ruupu,ループ,loop/band/ring,True,False,False,False,118146
+tootaru,トータル,total,True,False,True,False,118140
+reji,レジ,(cash) register,True,False,False,False,118127
+rakku,ラック,rack,True,False,False,False,117818
+wakuwaku,ワクワク,trembling/getting nervous/excited/thrilled,True,True,False,True,117648
+maikeru,マイケル,Michael,False,False,False,False,117514
+saikuru,サイクル,cycle,True,False,False,False,117355
+boisu,ボイス,voice,True,False,False,False,116618
+doroppu,ドロップ,drop,True,True,False,False,116559
+inpuranto,インプラント,implant (esp. dental),True,True,False,False,116331
+manko,マンコ,pussy/cunt/vulva/vagina,True,False,False,False,116077
+kikku,キック,kick,True,True,False,False,116063
+manejimento,マネジメント,management,True,False,False,False,115917
+buusu,ブース,booth,True,False,False,False,115846
+korabo,コラボ,collaboration,True,True,False,False,115754
+suisu,スイス,Switzerland,True,False,False,False,115219
+sukeeru,スケール,scale/vernier,True,False,False,False,114905
+uddo,ウッド,wood,True,False,False,False,114786
+gurippu,グリップ,grip,True,False,False,False,114712
+reeru,レール,rail (track),True,False,False,False,114710
+appuru,アップル,apple,True,False,False,False,114659
+desuku,デスク,desk,True,False,False,False,114424
+tento,テント,tent,True,False,False,False,114381
+di,ディ,day (as in holiday),False,False,False,False,114277
+pasuwaado,パスワード,password,True,False,False,False,114188
+baree,バレエ,ballet,True,False,False,False,114017
+panchi,パンチ,punch (with the fist),True,True,False,False,114011
+gia,ギア,gear,True,False,False,False,113814
+sukai,スカイ,sky,True,False,False,False,113540
+kyasshu,キャッシュ,cache,True,False,False,False,113427
+purodeyuusaa,プロデューサー,"producer (film, TV, etc.)",True,False,False,False,113404
+kawaii,カワイイ,cute/adorable/charming/lovely/pretty,False,False,True,False,113401
+amerikan,アメリカン,American,True,True,False,False,113273
+son,ソン,Son,True,False,False,False,113246
+mooru,モール,mall,True,False,False,False,113187
+kuoritei,クオリティ,quality,True,False,False,False,113167
+sekando,セカンド,second,True,False,False,False,113064
+suteeshon,ステーション,station,True,False,False,False,113004
+dotto,ドット,dot/point,True,False,False,False,112472
+sooru,ソール,soul,True,False,False,False,112241
+yabai,ヤバイ,dangerous/risky,False,False,True,False,111977
+afirieito,アフィリエイト,affiliate/affiliation,True,False,False,False,111753
+horudaa,ホルダー,holder,True,False,False,False,111650
+purodeyuusu,プロデュース,"to produce (e.g. movie, play, show, event, musical recording, etc.)/to design (e.g. new commercial product, restaurant concept, etc.)/to create",False,True,False,False,111639
+gurafikku,グラフィック,graphics/graphic,True,False,True,False,111560
+daibingu,ダイビング,diving,True,True,False,False,111534
+toon,トーン,tone,True,False,False,False,111345
+biniiru,ビニール,vinyl,True,False,False,False,111323
+tsukkomi,ツッコミ,thrust/charge/penetration,True,False,False,False,111145
+sutoriito,ストリート,street,True,False,False,False,110990
+sebun,セブン,seven,True,False,False,False,110870
+beeju,ベージュ,beige,True,False,False,False,110645
+kuizu,クイズ,quiz,True,False,False,False,110423
+roopu,ロープ,rope,True,False,False,False,110398
+uei,ウェイ,way,True,False,False,False,110245
+booi,ボーイ,boy,True,False,False,False,110232
